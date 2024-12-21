@@ -408,7 +408,7 @@ language_data = {
         "description": """
         ### 🎥 **Traduisez facilement les vidéos avec Digicactus Translate !** 📽️
 
-        Téléchargez une vidéo, un fichier audio ou fournissez un lien YouTube. 📽️ **Obtenez le notebook mis à jour à partir du référentiel officiel : [SoniTranslate](https://github.com/R3gm/SoniTranslate)!**
+        Téléchargez une vidéo, un fichier audio ou fournissez un lien YouTube. 📽️ **Obtenez le notebook mis à jour à partir du référentiel officiel : [DigicactusTranslate](https://github.com/oabai/SoniTranslate.git)!**
 
         Consultez l'onglet `Aide` pour des instructions sur son utilisation. Amusons-nous à traduire des vidéos ! 🚀🎉
         """,
