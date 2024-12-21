@@ -406,7 +406,7 @@ language_data = {
     },
     "french": {
         "description": """
-        ### 🎥 **Traduisez facilement les vidéos avec SoniTranslate !** 📽️
+        ### 🎥 **Traduisez facilement les vidéos avec Digicactus Translate !** 📽️
 
         Téléchargez une vidéo, un fichier audio ou fournissez un lien YouTube. 📽️ **Obtenez le notebook mis à jour à partir du référentiel officiel : [SoniTranslate](https://github.com/R3gm/SoniTranslate)!**
 
@@ -425,7 +425,7 @@ language_data = {
 
         ---
 
-        # 🧩 **SoniTranslate prend en charge différents moteurs TTS (Text-to-Speech), à savoir :**
+        # 🧩 **Digicactus Translate prend en charge différents moteurs TTS (Text-to-Speech), à savoir :**
         - EDGE-TTS → format `en-AU-WilliamNeural-Male` → Rapide et précis.
         - FACEBOOK MMS → format `en-facebook-mms VITS` → La voix est plus naturelle ; pour le moment, il utilise uniquement le CPU.
         - PIPER TTS → format `en_US-lessac-high VITS-onnx` → Identique au précédent, mais optimisé pour le CPU et le GPU.
